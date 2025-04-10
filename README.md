@@ -1,3 +1,3 @@
-#Fourier Trarform for test
+#Fourier Transform for test
 
-Is this repository actually usefull? I do not think so. 
+Is this a helpful repository? I do not think so. 

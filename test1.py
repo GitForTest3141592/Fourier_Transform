@@ -2,10 +2,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-Fs = 500             
+Fs = 1000             
 T = 1.0/Fs         
 t = np.linspace(0.0,1.0,int(Fs))
-f1 = 50   
+f1 = 150   
 f2 = 120  
 signal = np.sin(2.0*np.pi*f1*t)+0.5*np.sin(2.0*np.pi*f2*t)
 N = len(t)
